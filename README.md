@@ -1,6 +1,9 @@
 # message-ordering-in-distributed-system-using-logical-clock
 Implement a system where messages between processes will be ordered according to 1. Fifo Ordering using vector clock 2. Causel Ordering using vector clock 3. total ordering using vector clock
 
+## Requirements
+Language-Python.
+
 ## How To Run
 1. Run server(ex-serverfifo.p)
 2. Run multipel client(Run more than one client)
