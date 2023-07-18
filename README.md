@@ -7,7 +7,7 @@ Language-Python.
 ## How To Run
 1. Run server(ex-serverfifo.p)
 2. Run multipel client(Run more than one client)
-   2.1 Run client code(ex-clientcausal.py).
+2.1 Run client code(ex-clientcausal.py).
    2.2 enter client no(ex-from 0,1,2 etc.).
    2.3 enter total no of client want to connected in a network.
    2.4 enter the total no of message individual  client want to send. 
