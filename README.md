@@ -1,6 +1,9 @@
 # message-ordering-in-distributed-system-using-logical-clock
-Implement a system where messages between processes will be ordered according to 1. Fifo Ordering using vector clock 2. Causel Ordering using vector clock 3. total ordering using vector clock
-
+This project implements a system which is used to commnunicate between processes by message passing and the system is made thread-safe by making messages asynchronous and distributed over multiple threads.
+A vector clock protocol is also put in place to maintain ordering of the messages by using
+1. Fifo Ordering  
+2. Causel Ordering  
+3. total ordering  
 ## Requirements
 Language-Python.
 
