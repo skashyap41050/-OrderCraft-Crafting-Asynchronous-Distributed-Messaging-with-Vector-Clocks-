@@ -1,4 +1,4 @@
-# message-ordering-in-distributed-system-using-logical-clock
+# "OrderCraft: Crafting Asynchronous Distributed Messaging with Vector Clocks"
 This project implements a system which is used to commnunicate between processes by message passing and the system is made thread-safe by making messages asynchronous and distributed over multiple threads.
 A vector clock protocol is also put in place to maintain ordering of the messages by using
 1. Fifo Ordering  
